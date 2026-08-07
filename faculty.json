@@ -1,0 +1,101 @@
+[
+	{
+		"username":	"FCS101",
+		"password":	"password123",
+		"firstName":	"Hossein",
+		"lastName":	"Asadi",
+		"nationalId":	"1112223334",
+		"major":	"Computer Engineering",
+		"entryYear":	1390,
+		"lastDegree":	"PhD",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"username":	"FEE203",
+		"password":	"password123",
+		"firstName":	"Maryam",
+		"lastName":	"Ghafari",
+		"nationalId":	"5556667778",
+		"major":	"Electrical Engineering",
+		"entryYear":	1395,
+		"lastDegree":	"PhD",
+		"faculty":	"Electrical Engineering"
+	},
+	{
+		"username":	"FCS105",
+		"password":	"password123",
+		"firstName":	"Hasan",
+		"lastName":	"Rezaei",
+		"nationalId":	"1234512345",
+		"major":	"Computer Engineering",
+		"entryYear":	1392,
+		"lastDegree":	"PhD",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"username":	"FCS107",
+		"password":	"password123",
+		"firstName":	"Amir",
+		"lastName":	"Hosseini",
+		"nationalId":	"2345623456",
+		"major":	"Computer Engineering",
+		"entryYear":	1394,
+		"lastDegree":	"PhD",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"username":	"FCS109",
+		"password":	"password123",
+		"firstName":	"Shima",
+		"lastName":	"Karimi",
+		"nationalId":	"3456734567",
+		"major":	"Computer Engineering",
+		"entryYear":	1397,
+		"lastDegree":	"PhD",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"username":	"FPHY210",
+		"password":	"password123",
+		"firstName":	"Maryam",
+		"lastName":	"Sadeghi",
+		"nationalId":	"4567845678",
+		"major":	"Physics",
+		"entryYear":	1391,
+		"lastDegree":	"PhD",
+		"faculty":	"Basic Sciences"
+	},
+	{
+		"username":	"FMATH301",
+		"password":	"password123",
+		"firstName":	"Nima",
+		"lastName":	"Farhadi",
+		"nationalId":	"5678956789",
+		"major":	"Mathematics",
+		"entryYear":	1389,
+		"lastDegree":	"PhD",
+		"faculty":	"Basic Sciences"
+	},
+	{
+		"username":	"FME315",
+		"password":	"password123",
+		"firstName":	"Reza",
+		"lastName":	"Karimi",
+		"nationalId":	"6789067890",
+		"major":	"Mechanical Engineering",
+		"entryYear":	1393,
+		"lastDegree":	"PhD",
+		"faculty":	"Mechanical Engineering"
+	},
+	{
+		"username":	"FCE220",
+		"password":	"password123",
+		"firstName":	"Saeed",
+		"lastName":	"Jamali",
+		"nationalId":	"7890178901",
+		"major":	"Civil Engineering",
+		"entryYear":	1388,
+		"lastDegree":	"PhD",
+		"faculty":	"Civil Engineering"
+	}
+]

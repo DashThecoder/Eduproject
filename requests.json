@@ -1,0 +1,12 @@
+[
+	{
+		"type":	1,
+		"courseCode":	"CS305",
+		"professorId":	"FCS101",
+		"term":	"14042",
+		"capacity":	30,
+		"extra":	0,
+		"location":	"Room 210, Science Building",
+		"status":	0
+	}
+]

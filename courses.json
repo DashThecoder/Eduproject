@@ -1,0 +1,119 @@
+[
+	{
+		"name":	"Fundamentals of Programming",
+		"code":	"CS101",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Logical Design",
+		"code":	"CS103",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Discrete Mathematics",
+		"code":	"CS104",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Data Structures",
+		"code":	"CS201",
+		"credits":	3,
+		"prerequisites":	"CS101, CS104",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Advanced Programming",
+		"code":	"CS305",
+		"credits":	4,
+		"prerequisites":	"CS201",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Software Engineering",
+		"code":	"CS401",
+		"credits":	3,
+		"prerequisites":	"CS305",
+		"degree":	"BSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Machine Learning",
+		"code":	"CS402",
+		"credits":	3,
+		"prerequisites":	"CS305",
+		"degree":	"MSc",
+		"major":	"Computer Engineering",
+		"faculty":	"Computer Engineering"
+	},
+	{
+		"name":	"Calculus 2",
+		"code":	"MATH102",
+		"credits":	4,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Mathematics",
+		"faculty":	"Basic Sciences"
+	},
+	{
+		"name":	"General Physics 2",
+		"code":	"PHY102",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Physics",
+		"faculty":	"Basic Sciences"
+	},
+	{
+		"name":	"Digital Logic Design",
+		"code":	"EE110",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Electrical Engineering",
+		"faculty":	"Electrical Engineering"
+	},
+	{
+		"name":	"Thermodynamics I",
+		"code":	"ME301",
+		"credits":	3,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Mechanical Engineering",
+		"faculty":	"Mechanical Engineering"
+	},
+	{
+		"name":	"Structural Analysis",
+		"code":	"CE210",
+		"credits":	4,
+		"prerequisites":	"-",
+		"degree":	"BSc",
+		"major":	"Civil Engineering",
+		"faculty":	"Civil Engineering"
+	},
+	{
+		"name":	"PhD Thesis",
+		"code":	"PHD100",
+		"credits":	6,
+		"prerequisites":	"-",
+		"degree":	"PhD",
+		"major":	"Civil Engineering",
+		"faculty":	"Civil Engineering"
+	}
+]

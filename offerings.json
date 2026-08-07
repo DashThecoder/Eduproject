@@ -1,0 +1,102 @@
+[
+	{
+		"courseCode":	"CS101",
+		"professorId":	"FCS105",
+		"term":	"14041",
+		"capacity":	40,
+		"enrolledCount":	38,
+		"faculty":	"Computer Engineering",
+		"location":	"Room 201, Science Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"PHY102",
+		"professorId":	"FPHY210",
+		"term":	"14041",
+		"capacity":	60,
+		"enrolledCount":	55,
+		"faculty":	"Basic Sciences",
+		"location":	"Room 101, Physics Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"CS103",
+		"professorId":	"FCS107",
+		"term":	"14041",
+		"capacity":	40,
+		"enrolledCount":	36,
+		"faculty":	"Computer Engineering",
+		"location":	"Room 203, Science Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"MATH102",
+		"professorId":	"FMATH301",
+		"term":	"14041",
+		"capacity":	60,
+		"enrolledCount":	57,
+		"faculty":	"Basic Sciences",
+		"location":	"Room 105, Math Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"CS104",
+		"professorId":	"FCS109",
+		"term":	"14041",
+		"capacity":	40,
+		"enrolledCount":	34,
+		"faculty":	"Computer Engineering",
+		"location":	"Room 207, Science Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"CS201",
+		"professorId":	"FCS101",
+		"term":	"14042",
+		"capacity":	35,
+		"enrolledCount":	32,
+		"faculty":	"Computer Engineering",
+		"location":	"Room 405, Science Building",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"EE110",
+		"professorId":	"FEE203",
+		"term":	"14042",
+		"capacity":	30,
+		"enrolledCount":	28,
+		"faculty":	"Electrical Engineering",
+		"location":	"Lab 201, Engineering Hall",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"ME301",
+		"professorId":	"FME315",
+		"term":	"14042",
+		"capacity":	40,
+		"enrolledCount":	38,
+		"faculty":	"Mechanical Engineering",
+		"location":	"Room 102, Main Hall",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"CS401",
+		"professorId":	"FCS107",
+		"term":	"14042",
+		"capacity":	25,
+		"enrolledCount":	20,
+		"faculty":	"Computer Engineering",
+		"location":	"Room 305, IT Center",
+		"is_Approved":	true
+	},
+	{
+		"courseCode":	"PHD100",
+		"professorId":	"FCE220",
+		"term":	"14042",
+		"capacity":	5,
+		"enrolledCount":	0,
+		"faculty":	"Civil Engineering",
+		"location":	"Supervisor's office",
+		"is_Approved":	true
+	}
+]

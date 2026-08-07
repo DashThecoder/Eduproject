@@ -1,0 +1,114 @@
+[{
+		"username":	"404123456",
+		"password":	"password123",
+		"firstName":	"Ali",
+		"lastName":	"Ahmadi",
+		"nationalId":	"0123456789",
+		"major":	"Computer Engineering",
+		"entryYear":	404,
+		"degree":	"BSc",
+		"supervisor":	"Hossein Asadi",
+		"faculty":	"Computer Engineering",
+		"birthPlace":	"Karaj",
+		"firstSchool":	"Anne Shirley",
+		"firstBike":	"White",
+		"enrolled_offerings":	{
+			"14041":	{
+				"CS101":	18.25,
+				"PHY102":	14,
+				"CS103":	16.75,
+				"MATH102":	12.5,
+				"CS104":	9.75
+			}
+		}
+	}, {
+		"username":	"403234567",
+		"password":	"password123",
+		"firstName":	"Sara",
+		"lastName":	"Karimi",
+		"nationalId":	"1234567890",
+		"major":	"Electrical Engineering",
+		"entryYear":	403,
+		"degree":	"MSc",
+		"supervisor":	"Mehdi Rezaei",
+		"faculty":	"Electrical Engineering",
+		"birthPlace":	"Isfahan",
+		"firstSchool":	"The Little Prince",
+		"firstBike":	"Blue",
+		"enrolled_offerings":	{
+			"14041":	{
+				"MATH102":	17.5
+			}
+		}
+	}, {
+		"username":	"404345678",
+		"password":	"password123",
+		"firstName":	"Reza",
+		"lastName":	"Nouri",
+		"nationalId":	"2345678901",
+		"major":	"Mechanical Engineering",
+		"entryYear":	404,
+		"degree":	"BSc",
+		"supervisor":	"Leila Ahmadi",
+		"faculty":	"Mechanical Engineering",
+		"birthPlace":	"Shiraz",
+		"firstSchool":	"Pride and Prejudice",
+		"firstBike":	"Red",
+		"enrolled_offerings":	{
+			"14041":	{
+				"MATH102":	15,
+				"PHY102":	13.25
+			}
+		}
+	}, {
+		"username":	"402456789",
+		"password":	"password123",
+		"firstName":	"Rozhan",
+		"lastName":	"Azizi",
+		"nationalId":	"3456789012",
+		"major":	"Civil Engineering",
+		"entryYear":	402,
+		"degree":	"PhD",
+		"supervisor":	"Saeed Jamali",
+		"faculty":	"Civil Engineering",
+		"birthPlace":	"Sanandaj",
+		"firstSchool":	"The Alchemist",
+		"firstBike":	"Green",
+		"thesisTitle":	"Seismic Behaviour of Steel Moment Frames",
+		"thesisAbstract":	"A numerical study of the seismic response of steel moment resisting frames under near-fault ground motions.",
+		"thesisCitations":	7,
+		"enrolled_offerings":	{
+		}
+	}, {
+		"username":	"403567890",
+		"password":	"password123",
+		"firstName":	"Diako",
+		"lastName":	"Gholami",
+		"nationalId":	"4567890123",
+		"major":	"Software Engineering",
+		"entryYear":	403,
+		"degree":	"MSc",
+		"supervisor":	"Parisa Moradi",
+		"faculty":	"Computer Engineering",
+		"birthPlace":	"Kermanshah",
+		"firstSchool":	"1984",
+		"firstBike":	"Black",
+		"enrolled_offerings":	{
+		}
+	}, {
+		"username":	"404110601",
+		"password":	"404110601",
+		"firstName":	"1",
+		"lastName":	"1",
+		"nationalId":	"1",
+		"major":	"1",
+		"entryYear":	1,
+		"degree":	"BSc",
+		"supervisor":	"1",
+		"faculty":	"1",
+		"birthPlace":	"1",
+		"firstSchool":	"1",
+		"firstBike":	"1",
+		"enrolled_offerings":	{
+		}
+	}]
